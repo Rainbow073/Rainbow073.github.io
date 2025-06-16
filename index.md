@@ -1,3 +1,4 @@
+theme: jekyll-theme
 # Jiawei chen profile
 
 ## Email:jiaweichen@stu.xjtu.edu.cn
